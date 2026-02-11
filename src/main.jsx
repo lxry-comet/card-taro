@@ -7,7 +7,7 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename="/card-taro">
+    <BrowserRouter basename="/airplane-model-store2-stylization1/">
       <App />
     </BrowserRouter>
   </StrictMode >
